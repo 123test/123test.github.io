@@ -1,0 +1,12 @@
+# Setup
+title:        123test
+tagline:      Free psychological tests
+baseurl:      ""
+paginate:     0
+
+# Gems
+gems:
+#  - jekyll-paginate
+
+#Others
+markdown: kramdown
