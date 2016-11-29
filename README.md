@@ -1,3 +1,3 @@
 # 123test API SDK
 
-See [the website](https://123test.github.io/api-sdk) for the documentation.
+See [the website](https://developer.123test.com) for the documentation.
